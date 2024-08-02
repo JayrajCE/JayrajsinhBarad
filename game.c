@@ -1,3 +1,6 @@
+// PROGRAMER : JAYRAJSINH 
+// LAST UPDATED : 2/8/24
+
 #include <stdio.h>
 void main()
 {
