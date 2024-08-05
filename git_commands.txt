@@ -1,0 +1,10 @@
+git add .
+git commit -m "Your desired message"
+git push origin main
+
+Always ensure that you are in JayrajsinhBarad Directory. Otherwise this won't work.
+This means the terminal should display   PS C:\Users\JayrajApurva\Documents\C_Language\JayrajsinhBarad> 
+
+if it looks like this PS C:\Users\JayrajApurva\Documents\C_Language> then type , 
+cd JayrajsinhBarad 
+and hit enter4
