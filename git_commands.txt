@@ -7,4 +7,4 @@ This means the terminal should display   PS C:\Users\JayrajApurva\Documents\C_La
 
 if it looks like this PS C:\Users\JayrajApurva\Documents\C_Language> then type , 
 cd JayrajsinhBarad 
-and hit enter4
+and hit enter
