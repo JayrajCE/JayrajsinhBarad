@@ -26,16 +26,13 @@ void main()
         {
             if(str1[i] != str2[j])
             {
-                goto x ;
-                break;
+                 printf("Both the note are not identical");
+                 break;
             }
 
         }
+        if(str1[i] == '\0')
         printf("Both the note are identical");
-        x :
-            printf("Both the note are not identical");
-
-
 
     }
 
