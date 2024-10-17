@@ -1,3 +1,6 @@
+// Programer : JAyrajsinh
+// Aim : To make a simple caculator.
+// Last updated : 14/08/24
 #include <stdio.h>
 void main()
 {
@@ -9,13 +12,10 @@ void main()
     scanf("%d" , &b);
     fflush(stdin);
     printf("Enter + for addition\nEnter - for subtraction\nEnter * for multiplication\nEnter / for  division\n");
+    // The below scanf function takes the input of opreation the user want to perform on the numbers. 
     scanf("%s", &X);
     fflush(stdin);
-
-   
-
-
-
+    // The below switch case perform the task according to user choice.
     switch(X)
     {
         case '+' :
@@ -31,7 +31,7 @@ void main()
         }
         case '*' :
         {
-           printf("The muktiplication of numbers is %d" , a*b); 
+           printf("The multiplication of numbers is %d" , a*b); 
            break;
         }
         case '/' :

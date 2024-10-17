@@ -1,5 +1,6 @@
 // PROGRAMER : JAYRAJSINH
-// LAST UPDATED : 4/8/24
+// Aim : To find simple rate od intrest.
+// LAST UPDATED : 040/8/24
 
 #include <stdio.h>
 void main()

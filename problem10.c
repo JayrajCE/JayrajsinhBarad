@@ -1,6 +1,7 @@
 // PROGRAMER : JAYRAJSINH
-// LAST UPDATED : 2/8/24
-// AIM : TO MAKE A TIMER
+// AIM : TO MAKE A TIMER.
+// LAST UPDATED : 02/08/24
+
 #include <stdio.h>
 void main()
 {

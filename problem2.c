@@ -1,3 +1,6 @@
+// Programer : Jayrajsinh
+// Aim  : To find and print area and perimetr of a rectangle.
+// Last updated : 04/08/24
 #include <stdio.h>
 void main()
 {
