@@ -15,4 +15,5 @@ void main()
     70>marks && marks>=60 ? printf("You obtian C Grade") :
     60>marks && marks>=50 ? printf("You obtian F Grade") :
     printf("You fail");
+    printf("\n\nProgramer : Jayrajsinh\nID : 24CE006");
 }

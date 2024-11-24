@@ -5,7 +5,7 @@
 void main()
 {
     int i , j , r , c ;
-    printf("Enter the number of rows\n");
+    printf("Enter the number of rows : ");
     scanf("%d" , &r);
     printf("\n");
     // The outer fo loop rotates the rows of patterns. 
@@ -26,5 +26,5 @@ void main()
         }
         printf("\n");
     }
-
+    printf("\nProgramer : Jayrajsinh\nID : 24CE006");
 }

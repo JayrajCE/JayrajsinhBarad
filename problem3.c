@@ -7,5 +7,6 @@ void main()
 {
     float a = 50000 , t = 3 , r = 5.5 , si = 0;
     si = (a*t*r)/100;
-    printf("The simple rate of intrest is %f" , si);
+    printf("\nThe simple rate of intrest is %0.2f" , si);
+    printf("\n\nProgramer : Jayrajsinh\nID : 24CE006");
 }

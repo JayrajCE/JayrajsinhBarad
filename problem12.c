@@ -6,7 +6,7 @@
 void main()
 {
     int day , sum = 0, i ;
-    printf("Enter the number of days you want to find the cost for\n");
+    printf("Enter the number of days you want to find the cost for : ");
     scanf("%d" , &day);  
     // The below for loop helps to claculate the cost the cost. 
     for(i = 1 ; i<=day ; i++) 
@@ -17,5 +17,6 @@ void main()
             sum = sum +200;
         }
     }
-    printf("The management need to allocate a budget of %dRs" , sum);
+    printf("The management need to allocate a budget of %dRs\n" , sum);
+    printf("\nProgramer : Jayrajsinh\nID : 24CE006");
 }

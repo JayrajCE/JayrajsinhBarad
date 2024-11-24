@@ -9,4 +9,5 @@ void main()
     area = lenght*breath;
     printf("The perimeter of rectangular plot is %dcm\n" , perimeter);
     printf("The area of the rectangular plot is %dcm^3" , area);
+    printf("\n\nProgramer : Jayrajsinh\nID : 24CE006");
 }

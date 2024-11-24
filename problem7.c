@@ -27,4 +27,5 @@ void main()
     {
         printf("Raman and suman are equally wealthier");
     }
+    printf("\n\nProgramer : Jayrajsinh\nID : 24CE006");
 }

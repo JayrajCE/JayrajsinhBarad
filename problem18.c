@@ -10,10 +10,12 @@ void main()
 
     for(i=0; i<n ; i++)
     {
+        printf("Enter student name : ");
         scanf("%s", name[i]);
         fflush(stdin);
     }
-
+    printf("\n\n");
+    printf("Names arranged in alphabatical order :\n");
     for(i=0; i<(n-1) ; i++)
     {
         for(j=i+1 ; j<n ; j++)
@@ -32,5 +34,5 @@ void main()
     {
         printf("%s\n", name[i]);
     }
-
+    printf("\nProgramer : Jayrajsinh\nID : 24CE006");
 }

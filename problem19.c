@@ -10,8 +10,10 @@ void main()
     printf("Enter your note 2\n");
     scanf("%s" , str2);
 
-    printf("1. Enter 1 lenght string 1\n2. Enter 2 lenght string 2\n3. Enter 3 to compare both notes\n4. Enter 4 to concanate note 2 in note 1\n5. Enter 5 to reverse note 1\n6. Enter 6 to copy note 1\n");
+    printf("1. Enter 1 lenght string 1\n2. Enter 2 lenght string 2\n3. Enter 3 to compare both notes\n4. Enter 4 to concanate note 2 in note 1\n5. Enter 5 to reverse note 1\n6. Enter 6 to copy note 1\nYour choice : ");
     scanf("%d" , &x);
+
+    printf("\n");
 
     for(i=0 ; str1[i] != '\0' ; i++)
     {
@@ -86,4 +88,5 @@ void main()
              printf("Invalid input");
              break;
     }
+    printf("\n\nProgramer : Jayrajsinh\nID : 24CE006");
 }

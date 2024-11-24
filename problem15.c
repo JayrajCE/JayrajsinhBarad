@@ -37,4 +37,6 @@ void main()
     printf("NUmber of odd number is %d\n" , odd);
     printf("NUmber of positive number is %d\n" , positive);
     printf("NUmber of negative number is %d\n" , negative);
+    printf("\nProgramer : Jayrajsinh\nID : 24CE006");
+
 }

@@ -32,5 +32,7 @@ void main()
    for(int i = 0 ; i<n ; i++)
      {
          printf("%d " , arry[i]);
-     } 
+     }
+     printf("\n\nProgramer : Jayrajsinh\nID : 24CE006");
+ 
 }

@@ -5,12 +5,11 @@
 
 #include <stdio.h>
 int main()
-
 {
     int burger=0 , pizza=0 , pasta=0, frenchfries=0 ,x , TOTAL_COST;
     // The below printf function prints entire meun of food items.
-    printf("MENU\n1.BURGER = 150RS\n2.PIZZA = 200RS\n3.PASTA = 120RS\n4.FRENCH FRIES = 80RS\n");
-    printf("Enter the index number given in menu to select your desired food item\nEnter 0 after finishing your order\n");
+    printf("MENU\n1.BURGER = 150RS\n2.PIZZA = 200RS\n3.PASTA = 120RS\n4.FRENCH FRIES = 80RS\n\n");
+    printf("Enter the index number given in menu to select your desired food item\nEnter 0 after finishing your order\n\n");
     g :printf("Add food item number\n");
     scanf("%d" , &x);
     // The below switch case calculate the cost of food item orderd by user.
@@ -48,6 +47,7 @@ int main()
     }
     // The  below statment calculates the total cost all food item ordered by the user.
     TOTAL_COST = burger+pizza+pasta+frenchfries;
-    printf("The total bill is %dRs", TOTAL_COST);
+    printf("\nThe total bill is %dRs\n", TOTAL_COST);
+    printf("\nProgramer : Jayrajsinh\nID : 24CE006");
     return 0;
 }
