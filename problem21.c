@@ -33,4 +33,5 @@ void area(int x , int y , int z)
     s = ((x+y+z)/2.0);
     A = sqrt( s*(s-x)*(s-y)*(s-z) );
     printf("The area of triangle formed is %0.3fcm^2" , A);
+    printf("\n\nProgramer : Jayrajsinh\nID : 24CE006");
 }
